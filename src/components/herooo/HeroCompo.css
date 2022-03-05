@@ -1,0 +1,75 @@
+.hero{
+    
+    
+    height: 80vh; 
+    background-image: url("landingPage.png");   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+
+}
+
+h1{
+    color: white;
+}
+p{
+    color:white;
+}
+
+
+.content{
+    padding-top: 10%
+}
+
+
+.pickup-line{
+    
+    font-size: 3.5rem;  
+}
+
+
+
+
+
+.formsrc input{
+    width:65%;
+    border:none;
+    padding: 20px 20px;
+    outline: none;
+    box-shadow: 6px 10px 5px -4px rgba(0, 0, 0, 0.21);
+    -webkit-box-shadow: 6px 10px 5px -4px rgba(0, 0, 0, 0.21);
+    -moz-box-shadow: 6px 10px 5px -4px rgba(0, 0, 0, 0.21);
+}
+
+ button{
+    margin-top: 15px;
+    width:350px;
+    border:none;
+    padding: 20px ;
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: 600;
+    letter-spacing: 2px;
+    box-shadow: 0px 10px 5px -4px rgba(0, 0, 0, 0.21);
+  -webkit-box-shadow: 0px 10px 5px -4px rgba(0, 0, 0, 0.21);
+  -moz-box-shadow: 0px 10px 5px -4px rgba(0, 0, 0, 0.21);
+    
+}
+.formsrc button:hover{
+    background-color: var(--primary-color-hover);
+
+}
+.herosection{
+    justify-Content: "space-between";
+    align-Items: "center";
+}
+
+  
+  
+  
+  
+  
+ 
+
+

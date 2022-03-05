@@ -1,0 +1,21 @@
+.xyz{
+     display: grid;
+        grid-template-columns: 1fr 1fr 1fr ; 
+        row-gap: 44px; 
+        column-gap: 11px;
+        padding: 5% 5%;
+}
+
+
+
+@media only screen and (max-width: 600px){
+
+
+    .xyz{
+        display: grid;
+           grid-template-columns: 1fr ; 
+           row-gap: 24px; 
+           column-gap: 5px;
+   }
+
+}

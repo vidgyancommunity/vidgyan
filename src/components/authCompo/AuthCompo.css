@@ -1,0 +1,56 @@
+.auth-compo{
+    height: 70vh;
+    width: 40vw;
+    margin: 10vh auto;
+   
+  
+}
+.lolu{
+    
+    height: 50vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(200, 235, 210);
+    box-shadow: 3px 3px 12px  rgb(49, 48, 48);
+    border-radius: 5px;
+}
+
+.login-heading{
+    margin-top: 30px;
+    background-color: var(--primary-color);
+    padding: 11px 55px;
+    border-radius: 23px;
+    color: var(--pure);
+}
+.form-tag{
+    width: 100%;
+}
+
+.phone-number{
+    width: 84%;
+    padding: 0 11px;
+    outline: none;
+    height: 42px;
+    border: 1px solid var(--primary-color);
+    margin-top: 90px;
+    margin-left: 18px;
+   
+}
+
+.send-otp{
+    display: block;
+    background-color: var(--primary-color);
+    margin-top: 10px;
+    padding: 11px 55px;
+    border: none;
+    width: 90%;
+    color: var(--pure);
+    margin: 0 auto;
+}
+.send-otp:hover{
+    background-color: var(--primary-color-hover);
+
+
+}

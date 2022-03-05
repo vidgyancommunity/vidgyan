@@ -1,0 +1,13 @@
+.vernacular{
+    height: 60vh;
+    width: 100%;
+    display: flex;
+}
+.textContainer{
+    width: 50%;
+    margin-top:7%;
+}
+.imgContainer{
+    width: 50%;
+    
+}
